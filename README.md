@@ -15,17 +15,40 @@ Welcome to my GitHub repository! I am a senior penetration tester with a robust 
 
 ## Projects
 
-### Project 1: Python for Pentesting
-### Coding Projects
-### Secure Code review checklist
-### AD Pentest Checklist
-### Miscellaneous Research
+### [Python for Pentesting](https://github.com/yourusername/python-for-pentesting)
+A collection of Python scripts and tools for various penetration testing tasks.
+
+- **Description**: This project includes a variety of Python scripts that can be used for network scanning, web scraping, exploitation, and post-exploitation activities. SOme scripts are for automating daily pentesting tasks.
+- **Technologies Used**: Python, Scapy, Paramiko, Requests Module, CSV module.
+
+### [Coding Projects](https://github.com/yourusername/coding-projects)
+Various coding projects related to security.
+
+- **Description**: A compilation of different coding projects. Some of them are aimed at solving security-related challenges and improving automation in penetration testing, while others are just meant for learning the language.
+- **Technologies Used**: Python,PHP.
+
+### [Secure Code Review Checklist](https://github.com/yourusername/secure-code-review-checklist)
+A comprehensive checklist for conducting secure code reviews.
+
+- **Description**: This repository provides a detailed checklist to assist in performing secure code reviews, ensuring that all security aspects are covered.
+
+### [AD Pentest Checklist](https://github.com/yourusername/ad-pentest-checklist)
+A checklist for performing Active Directory penetration testing.
+
+- **Description**: A structured checklist for conducting penetration tests on Active Directory environments, covering common attack vectors and remediation steps.
+
+### [Miscellaneous Research](https://github.com/yourusername/miscellaneous-research)
+Various research projects and findings related to cybersecurity.
+
+- **Description**: This repository contains miscellaneous research papers, findings, and tools developed during my security research activities.
+- **Technologies Used**: Various.
 
 
 ## Contact
 
 - **Email**: [ayaan.saikia91@gmail.com](mailto:ayaan.saikia91@gmail.com)
 - **LinkedIn**: [ayaanlatifsaikia](https://www.linkedin.com/in/ayaanlatifsaikia)
+- **Medium**: [ayaan.saikia91](https://medium.com/@ayaan.saikia91)
 
 ## Certifications
 
