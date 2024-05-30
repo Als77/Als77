@@ -15,29 +15,29 @@ Welcome to my GitHub repository! I am a senior penetration tester with a robust 
 
 ## Projects
 
-### [Python for Pentesting](https://github.com/yourusername/python-for-pentesting)
+### [Python for Pentesting](https://github.com/Als77/python-for-pentesting)
 A collection of Python scripts and tools for various penetration testing tasks.
 
 - **Description**: This project includes a variety of Python scripts that can be used for network scanning, web scraping, exploitation, and post-exploitation activities. SOme scripts are for automating daily pentesting tasks.
 - **Technologies Used**: Python, Scapy, Paramiko, Requests Module, CSV module.
 
-### [Coding Projects](https://github.com/yourusername/coding-projects)
+### [Coding Projects](https://github.com/Als77/coding-projects) 
 Various coding projects related to security.
 
 - **Description**: A compilation of different coding projects. Some of them are aimed at solving security-related challenges and improving automation in penetration testing, while others are just meant for learning the language.
 - **Technologies Used**: Python,PHP.
 
-### [Secure Code Review Checklist](https://github.com/yourusername/secure-code-review-checklist)
+### [Secure Code Review Checklist](https://github.com/Als77/secure-code-review-checklist)
 A comprehensive checklist for conducting secure code reviews.
 
 - **Description**: This repository provides a detailed checklist to assist in performing secure code reviews, ensuring that all security aspects are covered.
 
-### [AD Pentest Checklist](https://github.com/yourusername/ad-pentest-checklist)
+### [AD Pentest Checklist](https://github.com/Als77/ad-pentest-checklist)
 A checklist for performing Active Directory penetration testing.
 
 - **Description**: A structured checklist for conducting penetration tests on Active Directory environments, covering common attack vectors and remediation steps.
 
-### [Miscellaneous Research](https://github.com/yourusername/miscellaneous-research)
+### [Miscellaneous Research](https://github.com/Als77/miscellaneous-research)
 Various research projects and findings related to cybersecurity.
 
 - **Description**: This repository contains miscellaneous research papers, findings, and tools developed during my security research activities.
