@@ -27,11 +27,6 @@ Various coding projects related to security.
 - **Description**: A compilation of different coding projects. Some of them are aimed at solving security-related challenges and improving automation in penetration testing, while others are just meant for learning the language.
 - **Technologies Used**: Python,PHP.
 
-### [Secure Code Review Checklist](https://github.com/Als77/secure-code-review-checklist)
-A comprehensive checklist for conducting secure code reviews.
-
-- **Description**: This repository provides a detailed checklist to assist in performing secure code reviews, ensuring that all security aspects are covered.
-
 ### [AD Pentest Checklist](https://github.com/Als77/ad-pentest-checklist)
 A checklist for performing Active Directory penetration testing.
 
