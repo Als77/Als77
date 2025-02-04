@@ -27,12 +27,7 @@ Various coding projects related to security.
 - **Description**: A compilation of different coding projects. Some of them are aimed at solving security-related challenges and improving automation in penetration testing, while others are just meant for learning the language.
 - **Technologies Used**: Python,PHP.
 
-### [AD Pentest Checklist](https://github.com/Als77/ad-pentest-checklist)
-A checklist for performing Active Directory penetration testing.
-
-- **Description**: A structured checklist for conducting penetration tests on Active Directory environments, covering common attack vectors and remediation steps.
-
-### [Miscellaneous Research](https://github.com/Als77/miscellaneous-research)
+### [Miscellaneous Research](https://github.com/Als77/AI-ML-Scripts)
 Various research projects and findings related to cybersecurity.
 
 - **Description**: This repository contains miscellaneous research papers, findings, and tools developed during my security research activities.
