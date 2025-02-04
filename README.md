@@ -21,7 +21,7 @@ A collection of Python scripts and tools for various penetration testing tasks.
 - **Description**: This project includes a variety of Python scripts that can be used for network scanning, web scraping, exploitation, and post-exploitation activities. SOme scripts are for automating daily pentesting tasks.
 - **Technologies Used**: Python, Scapy, Paramiko, Requests Module, CSV module.
 
-### [Coding Projects](https://github.com/Als77/coding-projects) 
+### [Coding Projects](https://github.com/Als77/Coding-Projects) 
 Various coding projects related to security.
 
 - **Description**: A compilation of different coding projects. Some of them are aimed at solving security-related challenges and improving automation in penetration testing, while others are just meant for learning the language.
